@@ -1,0 +1,25 @@
+{
+    "dir": "ltr",
+    "lang": "ja-JP",
+    "name": "block3 - HSP3Dish",
+    "short_name": "block3",
+    "display": "standalone",
+    "start_url": "https://zakki.github.io/dish-demo/block/",
+    "scope": "https://zakki.github.io/dish-demo/block/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "block3 - HSP3Dish",
+    "orientation": "portrait",
+    "icons": [
+		{
+			"src": "res/icon_low.png",
+			"sizes": "48x48",
+			"type": "image/png"
+		},
+		{
+			"src": "res/icon_hi.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
+}
